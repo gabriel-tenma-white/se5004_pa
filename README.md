@@ -12,3 +12,8 @@
 * FR4
 * 1.5mm total thickness
 * 0.2mm top/bottom prepreg thickness
+
+---
+To open schematics, it is necessary to add all gEDA symbols here to your symbol library: https://github.com/gabriel-tenma-white/sym
+
+To edit PCB layouts, make sure "packages" is a symlink to a cloned repository of: https://github.com/gabriel-tenma-white/packages2
