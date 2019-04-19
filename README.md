@@ -1,5 +1,4 @@
-# se5004_pa
-* 5.8GHz PA using 4 x SE5004L
+# 5.8GHz PA using 4 x SE5004L
 * Output power > 5W
 * Gain 25dB typ
 
